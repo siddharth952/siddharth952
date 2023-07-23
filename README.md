@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working with Python, JS, Java, C++, Swift
+- 🔭 I’m currently working with Swift, C++, Python, Java, JS
 
-- 🌱 I’m currently learning JavaScript and Python
+
 
 
